@@ -3,7 +3,9 @@
 Following are the key ideas collected from Hackthon and other crowd sourcing technologies. This section is specially focused on solutions and ideas from the Italy and Germany #hackthecrisis equivalents.
 
 The offshoot equivalent hashtags for #hackthecrisis are: 
+
 Italy: #weagainstvirus (https://hackthealps.it/weagainstvirus-2020/#24HOnlineHackathonOutcome).
+
 Germany: #wirvsvirus (https://wirvsvirushackathon.org/ressourcen/).
 
 | Idea Title       | Description         | Source |    Area of Application | Technology Used |
