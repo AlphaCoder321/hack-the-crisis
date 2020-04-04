@@ -15,6 +15,5 @@ Germany: #wirvsvirus (https://wirvsvirushackathon.org/ressourcen/). <br>
 | A Bed for All | Global coordination of the beds and patients between hospitals | weagainstvirus Italy | Hospital Logistics  | Custom-built Website w/ bot |
 | kiron | At Kiron, we provide education for refugees who cannot access it through traditional means. Together, Kiron and TH Lübeck have produced an interactive online course to help you become a better online teacher. To help those who are now finding themselves teaching online for the first time, we have collected some of the most useful pieces of content from that course and presented them here | wirvsvirus Germany | Helping School Teachers  | Online Learning Platform |
 | IVENA eHealth | A complex online monitoring and management system for hospitals to help distribute resources and medical professionals to where they are needed | wirvsvirus Germany | Hospital Logistics  | Suite of tools |
-|  |  | wirvsvirus Germany | Helping   | |
-|  |  | wirvsvirus Germany | Helping   | |
-|  |  | wirvsvirus Germany | Helping   | |
+| Solidarity Neighborhood Aid | Solidarity and self-organized neighborhood structures in times of the corona crisis, especially to support people who belong to a so-called risk group | wirvsvirus Germany | Awareness and Helping General Population  | Tracking System |
+| boost.ai | Conversational AI automates knowledge, sales and support | wirvsvirus Germany | Helping Businesses  | Artificial Intelligence |
