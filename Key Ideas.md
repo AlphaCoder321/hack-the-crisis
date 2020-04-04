@@ -12,8 +12,8 @@ Italy - #weagainstvirus & Germany - #wirvsvirus
 | One Stop Solution for Distance Learning | The project aims at developing a network of educational, on-line support for children from primary schools. It operates on the basis of creating school tandems: a highschool willing to help gets paired with a primary school, whose students could profit from the cooperation. The students and graduates of the high school involved in the project take on the role of tutors for primary school children | weagainstvirus Italy | Helping School Students  | Custom-built Website |
 | ML | Our goal is to diagnose COVID-19 reliably from X-Ray images using Artificial Intelligence. The current methods of choice are clinical tests or CT images. Both of these methods are expensive, time consuming or cause a high radiation exposure. In contrast x-rays are cheap, fast to make and widely available. Since x-ray data of COVID-19 patients is hard to get we use hundred-thousands of chest-x-rays in open datasets from other sources and teach the model everything there is to know about them before fine-tuning it to distinguish COVID-19, other causes of Pneumonia as well as healthy or other thoracical pathologies | weagainstvirus Italy | Helping Healthcare Workers  | Machine Learning: Medical Imaging |
 | A Bed for All | Global coordination of the beds and patients between hospitals | weagainstvirus Italy | Helping Healthcare Workers  | Custom-built Website w/ bot |
-| Idea Name | Description | wirvsvirus Germany | Helping Healthcare Workers  | |
-| Idea Name | Description | wirvsvirus Germany | Helping Healthcare Workers  | |
-| Idea Name | Description | wirvsvirus Germany | Helping Healthcare Workers  | |
-| Idea Name | Description | wirvsvirus Germany | Helping Healthcare Workers  | |
-| Idea Name | Description | wirvsvirus Germany | Helping Healthcare Workers  | |
+|  |  | wirvsvirus Germany | Helping   | |
+|  |  | wirvsvirus Germany | Helping   | |
+|  |  | wirvsvirus Germany | Helping   | |
+|  |  | wirvsvirus Germany | Helping   | |
+|  |  | wirvsvirus Germany | Helping   | |
